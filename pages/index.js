@@ -11,7 +11,7 @@ const style = {
 const Index = () => {
   return (
     <div style={style}>
-      <h1>__PROJECT_NAME__</h1>
+      <h1>Dentsu Project 2</h1>
       <p>&copy; 2022</p>
     </div>
   );
